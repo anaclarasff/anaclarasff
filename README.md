@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="left">Hey! I'm Clara 👋</h1>
 
 ###
